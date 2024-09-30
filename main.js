@@ -7,12 +7,15 @@ function calc(num1, num2, cb) {
 function plus(num1, num2) {
   return num1 + num2;
 }
+
 function mines(num1, num2) {
   return num1 - num2;
 }
+
 function division(num1, num2) {
   return num1 / num2;
 }
+
 function mul(num1, num2) {
   return num1 * num2;
 }
